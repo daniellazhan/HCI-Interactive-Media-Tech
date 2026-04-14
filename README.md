@@ -16,3 +16,5 @@ A dedicated space for exploring the psychological frameworks behind interaction 
 ## Current Exploration
 - [ ] Conceptualizing frameworks for motivational management in high-engagement products.
 - [ ] Documenting the role of sensory precision in interactive media.
+- [ ] Analyzing the 'Desire-Action' loop in high-engagement social apps.
+
